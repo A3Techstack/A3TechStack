@@ -23,6 +23,7 @@ export default {
 			>
 				{{ project.title }}
 			</p>
+	</router-link>
 			<!-- Render the website link if it exists in the project data -->
 			<a
 				v-if="project.website"
@@ -30,14 +31,13 @@ export default {
 				target="_blank"
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light hover:underline"
 			>
-				Copy link to Preview
+				Click to Preview
 			</a>
 			<!-- <span
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
 				>{{ project.website }}</span
 			> -->
 		</div>
-	</router-link>
 </template>
 
 <style lang="scss" scoped>

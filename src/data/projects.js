@@ -7,7 +7,7 @@ const projects = [
 		title: 'E-Commerce Store',
 		category: 'Web Application',
 		img: require('@/assets/images/project-2.png'),
-		website: 'atechstack.aiveai.com',
+		website: 'http://atechstack.aiveai.com',
 		
 	},
 	{

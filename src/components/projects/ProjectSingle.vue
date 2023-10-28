@@ -32,7 +32,7 @@ export default {
 			>
 				Click to Preview
 			</a>
-			<-- <span
+			<!-- <span
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
 				>{{ project.website }}</span
 			> -->

@@ -30,7 +30,7 @@ export default {
 				target="_blank"
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light hover:underline"
 			>
-				Click to Preview
+				Copy link to Preview
 			</a>
 			<!-- <span
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"

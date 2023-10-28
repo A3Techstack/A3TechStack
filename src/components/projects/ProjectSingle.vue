@@ -5,18 +5,17 @@ export default {
 </script>
 
 <template>
-		<div >
 	<router-link
 		to="/projects/single-project"
 		class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
 	>
+		<div >
 			<img
 				:src="project.img"
 				:alt="project.title"
 				class="rounded-t-xl border-none"
 			/>
-	</router-link>
 		</div>
 		<div class="text-center px-4 py-6">
 			<p
@@ -29,15 +28,17 @@ export default {
 				v-if="project.website"
 				:href="project.website"
 				target="_blank"
-				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light hover:underline"
+				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
+				@click.stop
 			>
-				Click to Preview
+				Project Link
 			</a>
 			<!-- <span
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
 				>{{ project.website }}</span
 			> -->
 		</div>
+	</router-link>
 </template>
 
 <style lang="scss" scoped>

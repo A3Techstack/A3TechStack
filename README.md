@@ -42,7 +42,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+git clone https://github.com/A3Techstack/A3TechStack.git
 ```
 
 3. Open the project folder:

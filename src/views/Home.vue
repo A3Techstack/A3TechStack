@@ -18,6 +18,46 @@ export default {
 		<!-- Banner -->
 		<AppBanner class="mb-5 sm:mb-8" />
 
+		<!-- Skills -->
+		<div class="mb-8 text-center">
+		<h2 class="text-2xl font-bold mb-4">My Skills</h2>
+		<div class="flex justify-center">
+			<div class="flex items-center gap-4">
+			<!-- Add your individual skill components or icons here -->
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				PHP
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				VUE.JS
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				JavaScript
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				MySQL
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				HTML
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				CSS
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				BOOTSTRAP
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				JQuery
+			</div>
+			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				Firebase
+			</div>
+			<!-- Add more skills as needed -->
+			</div>
+		</div>
+		</div>
+
+
+
 		<!-- Projects -->
 		<ProjectsGrid />
 

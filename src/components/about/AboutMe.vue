@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Hello, I am Adaraloye Akorede Akintunde(A3TechStack), a passionate and dedicated full-stack web developer with a strong focus on creating interactive and user-friendly web applications. With a deep love for technology and a commitment to continuous learning, I am excited to share my journey and skills with you.',
+						'Hello, I am Adaraloye Akorede Akintunde(A3TechStack,Tomiwa_CoderX), a passionate and dedicated full-stack web developer with a strong focus on creating interactive and user-friendly web applications. With a deep love for technology and a commitment to continuous learning, I am excited to share my journey and skills with you.',
 				},
 				{
 					id: 3,

@@ -93,7 +93,7 @@ export default {
 						/>
 						<img
 							v-else
-							src="@/assets/images/logo.png"
+							src="@/assets/images/logo-dark.svg"
 							class="w-36"
 							alt="Light Logo"
 						/>

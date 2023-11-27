@@ -28,9 +28,10 @@ export default {
 				v-if="project.website"
 				:href="project.website"
 				target="_blank"
-				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light hover:underline"
+				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"
+				@click.stop
 			>
-				Project Link
+				Click to view
 			</a>
 			<!-- <span
 				class="font-general-medium text-lg text-ternary-dark dark:text-ternary-light"

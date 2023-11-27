@@ -7,7 +7,7 @@ const projects = [
 		title: 'E-Commerce Store',
 		category: 'Web Application',
 		img: require('@/assets/images/project-2.png'),
-		website: 'https://www.linkedin.com/in/akorede-adaraloye-385440271/',
+		website: 'https://atechstack.aiveai.com',
 		
 	},
 	{
@@ -15,7 +15,7 @@ const projects = [
 		title: 'Ai Api App',
 		category: 'Web Appplication',
 		img: require('@/assets/images/project-5.jpg'),
-		website: 'https://www.linkedin.com/in/akorede-adaraloye-385440271/',
+		website: 'https://aiveai.com',
 	},
 	{
 		id: 3,
@@ -35,7 +35,7 @@ const projects = [
 		title: 'Chat App',
 		category: 'Web Appplication',
 		img: require('@/assets/images/project-4.jpg'),
-		website: 'https://www.linkedin.com/in/akorede-adaraloye-385440271/',
+		website: 'https://vue-firechat-8bfdb.web.app/',
 	},
 	// {
 	// 	id: 6,

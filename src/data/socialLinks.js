@@ -9,7 +9,7 @@ export const socialLinks = [
 		id: 2,
 		name: 'GitHub',
 		icon: 'github',
-		url: 'https://github.com/Lhilcode',
+		url: 'https://github.com/A3Techstack',
 	},
 	// {
 	// 	id: 3,

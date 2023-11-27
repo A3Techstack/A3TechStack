@@ -43,7 +43,7 @@ export default {
 					{
 						id: 1,
 						title: 'Name',
-						details: 'A3TechStack',
+						details: 'Akorede Adaraloye',
 					},
 					{
 						id: 2,
@@ -52,11 +52,6 @@ export default {
 					},
 					{
 						id: 3,
-						title: 'Website',
-						details: 'https://www.linkedin.com/in/akorede-adaraloye-385440271/',
-					},
-					{
-						id: 4,
 						title: 'Phone',
 						details: '07050636098',
 					},
@@ -129,7 +124,7 @@ export default {
 						id: 1,
 						name: 'Twitter',
 						icon: 'twitter',
-						url: '',
+						url: 'https://twitter.com/Tomiwa_CoderX',
 					},
 					{
 						id: 2,
@@ -139,12 +134,6 @@ export default {
 					},
 					{
 						id: 3,
-						name: 'Facebook',
-						icon: 'facebook',
-						url: 'https://facebook.com/profile.php/id=100090514518521',
-					},
-					{
-						id: 4,
 						name: 'LinkedIn',
 						icon: 'linkedin',
 						url: 'https://www.linkedin.com/in/akorede-adaraloye-385440271/',

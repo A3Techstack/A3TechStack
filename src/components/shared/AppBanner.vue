@@ -36,12 +36,12 @@ export default {
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A Full-Stack Developer(PHP/LARAVEL, VUEJS, MYSQL, JAVASCRIPT, TAILWIND, BOOTSTRAP, HTML/CSS, JQUERY)
+				A Full-Stack Web Developer(PHP, VUEJS, MYSQL, JAVASCRIPT, TAILWIND, BOOTSTRAP, HTML/CSS, JQUERY, FIREBASE)
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
-					download="A3TechStack-Resume.pdf"
-					href="/files/Akorede-Resume.pdf"
+					download="Akorede_Adaraloye-Resume.docx"
+					href="/files/Akorede_Adaraloye-Resume.docx"
 					class="flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
 					aria-label="Download Resume"
 				>

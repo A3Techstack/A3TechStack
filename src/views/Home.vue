@@ -20,41 +20,43 @@ export default {
 
 		<!-- Skills -->
 		<div class="mb-8 text-center">
-		<h2 class="text-2xl font-bold mb-4">My Skills</h2>
-		<div class="flex justify-center">
-			<div class="flex items-center gap-4">
-			<!-- Add your individual skill components or icons here -->
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+			<h2 class="text-2xl font-bold mb-4">My Skills</h2>
+			<div class="flex flex-wrap justify-center">
+				<!-- Add your individual skill components or icons here -->
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				PHP
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				VUE.JS
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				JavaScript
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				MySQL
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				HTML
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				CSS
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				BOOTSTRAP
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				JQuery
-			</div>
-			<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white">
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
 				Firebase
-			</div>
-			<!-- Add more skills as needed -->
+				</div>
+				<div class="bg-gradient-to-r from-orange-500 to-brown-500 p-4 rounded-lg text-white w-full sm:w-auto mb-4 sm:mb-0 sm:mr-4">
+				Supabase
+				</div>
+				<!-- Add more skills as needed -->
 			</div>
 		</div>
-		</div>
+
 
 
 
